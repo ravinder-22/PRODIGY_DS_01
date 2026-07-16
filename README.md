@@ -84,7 +84,7 @@ PRODIGY_DS_01/
 
 Feel free to connect or reach out with feedback or questions!
 
-- GitHub: @ (https://github.com/ravinder-22)
+- GitHub: @ravinder-22 (https://github.com/ravinder-22)
 - LinkedIn: Ravinder Singh (https://www.linkedin.com/in/ravinder-singh-9033b22a8
 )
 
